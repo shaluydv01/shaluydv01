@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/shaluydv01/shaluydv01/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Shalu Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
