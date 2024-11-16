@@ -1,8 +1,8 @@
-[!MasterHead](https://www.istockphoto.com/en/vector/development-gm1145859606-308552283)
+[![MasterHead](https://www.istockphoto.com/en/vector/development-gm1145859606-308552283)]
 
 <h1 align="center">Hi 👋, I'm Shalu Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMxZHM2eDRxbjMyeDZnd2o4eTQ3dDRnN2s5YWExcmlrcW0waTVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="">
+<img align ="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMxZHM2eDRxbjMyeDZnd2o4eTQ3dDRnN2s5YWExcmlrcW0waTVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaluyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="shaluyadav01" /> </p>
 
