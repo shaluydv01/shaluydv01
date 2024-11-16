@@ -1,8 +1,8 @@
-[!MasterHead](https://cdnl.iconscout.com/lottie/premium/thumb/boy-is-creating-a-css-file-12029585-10331713.mp4)
+[!MasterHead](https://www.istockphoto.com/en/vector/development-gm1145859606-308552283)
 
 <h1 align="center">Hi 👋, I'm Shalu Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<iframe src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-work-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-template-website-design-pack-animations-7931044.mp4" frameborder="0"></iframe>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMxZHM2eDRxbjMyeDZnd2o4eTQ3dDRnN2s5YWExcmlrcW0waTVtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaluyadav01&label=Profile%20views&color=0e75b6&style=flat" alt="shaluyadav01" /> </p>
 
