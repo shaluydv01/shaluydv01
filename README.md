@@ -1,4 +1,4 @@
-  <img src = "https://github.com/shaluydv01/shaluydv01/blob/main/github-header-image%20(4).png" align="center" width="1015px"/>
+  <img src = "https://github.com/shaluydv01/shaluydv01/blob/main/github-header-image.png" align="center" width="1015px"/>
 
 <h1 align="center">Hi 👋, I'm Shalu Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
